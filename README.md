@@ -1,4 +1,4 @@
-The libraries necesaries to run our project are Numpy, Pennylane, PyTorch and Matplotlib. To install them, you can use the following commends in the terminal
+The libraries necesaries to run our project are Numpy, Pennylane, PyTorch and Matplotlib. To install them you can use the following commands in the terminal
 
 pip install numpy
 
