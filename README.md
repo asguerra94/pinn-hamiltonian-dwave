@@ -52,12 +52,4 @@ Please ensure that your contributions adhere to our [code of conduct](CODE_OF_CO
 
 ## License
 
-[Indicate the license under which the project is distributed. For example, MIT, Apache 2.0, etc.]
-
-```
-[License Text]
-```
-
-## Additional Information
-
-[Include any additional information that may be relevant, such as contact information, project status, or acknowledgments.]
+This project was made under an Apache 2.0 licence. 
